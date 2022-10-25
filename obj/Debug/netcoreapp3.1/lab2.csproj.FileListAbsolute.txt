@@ -1,0 +1,16 @@
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\obj\Debug\netcoreapp3.1\lab2.Form1.resources
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\obj\Debug\netcoreapp3.1\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Мария\Desktop\СПРБП (Боровской)\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
